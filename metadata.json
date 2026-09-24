@@ -1,0 +1,8 @@
+{
+  "name": "Jute - Direct-To-Consumer Full Jute Catalogue",
+  "description": "Direct-to-consumer sustainable jute product catalogue and lifestyle store featuring handcrafted rugs, eco bags, homeware, and garden essentials.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
